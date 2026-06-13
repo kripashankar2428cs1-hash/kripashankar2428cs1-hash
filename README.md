@@ -4,10 +4,10 @@
 <h1>Hi, I'm Kripashankar Yadav 👋</h1>
 <h3>🚀 Passionate App Developer | IoT Enthusiast | Problem Solver</h3>
 <p>
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
-<a href="https://github.com/kripashankarcs3"><img src="https://skillicons.dev/icons?i=github" width="40"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
-<a href="YOUR_RESUME"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=cv&logoColor=white"></a>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/kripashankarcs3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="YOUR_RESUME"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge"></a>
 </p>
 </td>
 <td width="35%" align="center" valign="top">
