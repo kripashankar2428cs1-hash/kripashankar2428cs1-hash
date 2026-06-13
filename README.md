@@ -30,7 +30,7 @@
 <b>Languages</b><br>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css" width="100%"><br>
 <b>Frameworks / Libraries</b><br>
-<img src="https://skillicons.dev/icons?i=flutter,react" width="30%"><br>
+<img src="https://skillicons.dev/icons?i=flutter,react,opencv" width="42%"><br>
 <b>Cloud & DevOps</b><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,jenkins,gitlab" width="100%"><br>
 <b>Tools / Platforms</b><br>
