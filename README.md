@@ -49,9 +49,9 @@
 
 ---
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top" style="padding-right: 15px;">
 
 <h2>🛠 Tech Stack</h2>
 
@@ -63,7 +63,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux">
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top" style="padding-left: 15px; border-left: 1px solid #30363d;">
 
 <h2>🎯 Core Skills</h2>
 
@@ -78,7 +78,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 # 🚀 Projects
