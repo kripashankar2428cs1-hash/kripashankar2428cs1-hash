@@ -49,34 +49,30 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 <h2>🛠 Tech Stack</h2>
 
 <b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css">
-<br>
-
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css"><br>
 <b>Frameworks / Libraries</b><br>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow">
-<br>
-
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow"><br>
 <b>Tools / Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux">
 
 </td>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 <h2>🎯 Core Skills</h2>
 
-🔹 Data Structures & Algorithms (C++) <br>
-🔹 Object Oriented Programming (Java) <br>
-🔹 Flutter App Development <br>
-🔹 AI / ML Development <br>
-🔹 Full Stack Development <br>
-🔹 Database Management <br>
+🔹 Data Structures & Algorithms (C++)<br>
+🔹 Object Oriented Programming (Java)<br>
+🔹 Flutter App Development<br>
+🔹 AI / ML Development<br>
+🔹 Full Stack Development<br>
+🔹 Database Management<br>
 🔹 Git & GitHub
 
 </td>
