@@ -2,7 +2,7 @@
 <tr>
 <td width="65%" valign="top">
 <h1>Hi, I'm Kripashankar Yadav 👋</h1>
-<h3>🚀 Passionate App Developer | AI/ML Enthusiast | Problem Solver</h3>
+<h3>🚀 Passionate App Developer | IoT Enthusiast | Problem Solver</h3>
 <p>
 <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/kripashankarcs3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -17,11 +17,11 @@
 </table>
 
 ### 👨‍💻 About Me
-* 🎓 B.Tech CSE Student at KIET Ghaziabad
+* 🎓 B.Tech CS Student at KIET Ghaziabad
 * 📱 Flutter App Developer
-* 🤖 Passionate about AI/ML & Problem Solving
-* 🌱 Learning Deep Learning, Backend & System Design
-* 🚀 Building real-world applications
+* 🔋 Passionate about IoT & Hardware Integration
+* 🌱 Learning System Design & Backend Development
+* 🚀 Building real-world IoT applications
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
@@ -42,7 +42,7 @@
 🔹 Data Structures & Algorithms (C++)<br>
 🔹 Object Oriented Programming (Java)<br>
 🔹 Flutter App Development<br>
-🔹 AI / ML Development<br>
+🔹 IoT & Hardware Integration (Arduino, RPi)<br>
 🔹 Cloud & Containerization (Docker, K8s)<br>
 🔹 CI/CD & DevOps Automation<br>
 🔹 Git & GitHub
@@ -72,16 +72,9 @@
 </tr>
 </table>
 
-### 📊 GitHub Stats
-<p align="center">
-<img width="32%" src="https://github-readme-stats.vercel.app/api?username=kripashankarcs3&show_icons=true&theme=tokyonight">
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripashankarcs3&layout=compact&theme=tokyonight">
-<img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=kripashankarcs3&theme=tokyonight">
-</p>
-
 ### 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kripashankarcs3&theme=github-compact" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kripashankarcs3&theme=github-compact" width="85%">
 </p>
 
 ### 🌐 Connect With Me
