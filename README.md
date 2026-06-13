@@ -32,7 +32,7 @@
 <b>Frameworks / Libraries</b><br>
 <img src="https://skillicons.dev/icons?i=flutter,react,opencv" width="42%"><br>
 <b>Cloud & DevOps</b><br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,jenkins,gitlab" width="100%"><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,jenkins" width="75%"><br>
 <b>Tools / Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux" width="88%">
 </td>
