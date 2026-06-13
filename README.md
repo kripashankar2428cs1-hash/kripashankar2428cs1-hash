@@ -30,7 +30,7 @@
 <b>Languages</b><br>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css" width="100%"><br>
 <b>Frameworks / Libraries</b><br>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow" width="75%"><br>
+<img src="https://skillicons.dev/icons?i=flutter,react" width="30%"><br>
 <b>Tools / Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux" width="88%">
 </td>
