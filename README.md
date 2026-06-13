@@ -51,27 +51,6 @@
 </tr>
 </table>
 
-### 🚀 Projects
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<h4>🛡 SheShield</h4>
-<p><small>AI + IoT based women's safety system.<br><b>Tech:</b> Flutter • Firebase • Python • YOLO</small></p>
-<a href="YOUR_SHE_SHIELD_REPO"><small>🔗 Code</small></a>
-</td>
-<td width="33%" valign="top">
-<h4>🤖 AI Assistant</h4>
-<p><small>Desktop AI assistant that understands screen.<br><b>Tech:</b> Python • OpenCV • Voice AI</small></p>
-<a href="YOUR_AI_REPO"><small>🔗 Code</small></a>
-</td>
-<td width="33%" valign="top">
-<h4>🌫 Air Quality</h4>
-<p><small>IoT pollution monitoring system.<br><b>Tech:</b> Arduino • MQ135 • IoT</small></p>
-<a href="YOUR_AIR_REPO"><small>🔗 Code</small></a>
-</td>
-</tr>
-</table>
-
 ### 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kripashankarcs3&theme=github-compact" width="85%">
