@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed;">
 <tr>
 <td width="65%" valign="top">
 <h1>Hi, I'm Kripashankar Yadav 👋</h1>
@@ -23,9 +23,9 @@
 * 🌱 Learning System Design & Backend Development
 * 🚀 Building real-world IoT applications
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed;">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top" style="padding-bottom: 10px;">
 <h4>🛠 Tech Stack</h4>
 <b>Languages</b><br>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css" width="100%"><br>
@@ -36,9 +36,9 @@
 <b>Tools / Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux" width="88%">
 </td>
-<td width="42%" valign="top" style="padding-left: 15px;">
+<td width="45%" valign="top" style="padding-left: 20px; padding-top: 5px;">
 <h4>🎯 Core Skills</h4>
-<small>
+<div style="line-height: 2.1; font-size: 14px;">
 🔹 Data Structures & Algorithms (C++)<br>
 🔹 Object Oriented Programming (Java)<br>
 🔹 Flutter App Development<br>
@@ -46,14 +46,14 @@
 🔹 Cloud & Containerization (Docker, K8s)<br>
 🔹 CI/CD & DevOps Automation<br>
 🔹 Git & GitHub
-</small>
+</div>
 </td>
 </tr>
 </table>
 
 ### 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kripashankarcs3&theme=github-compact" width="85%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kripashankarcs3&theme=github-compact" width="100%">
 </p>
 
 ### 🌐 Connect With Me
