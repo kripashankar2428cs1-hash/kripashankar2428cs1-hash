@@ -31,6 +31,8 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css" width="100%"><br>
 <b>Frameworks / Libraries</b><br>
 <img src="https://skillicons.dev/icons?i=flutter,react" width="30%"><br>
+<b>Cloud & DevOps</b><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,jenkins,gitlab" width="100%"><br>
 <b>Tools / Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux" width="88%">
 </td>
@@ -41,8 +43,8 @@
 🔹 Object Oriented Programming (Java)<br>
 🔹 Flutter App Development<br>
 🔹 AI / ML Development<br>
-🔹 Full Stack Development<br>
-🔹 Database Management<br>
+🔹 Cloud & Containerization (Docker, K8s)<br>
+🔹 CI/CD & DevOps Automation<br>
 🔹 Git & GitHub
 </small>
 </td>
