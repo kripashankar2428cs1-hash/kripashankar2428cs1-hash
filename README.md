@@ -57,11 +57,11 @@
 
 <b>Languages</b><br>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css">
-<br><br>
+<br>
 
 <b>Frameworks / Libraries</b><br>
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow">
-<br><br>
+<br>
 
 <b>Tools / Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux">
